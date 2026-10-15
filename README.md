@@ -30,3 +30,7 @@
 
 ## Logo oficial
 Se incluye el logo original enviado por el equipo en `assets/logo.png` y `assets/favicon.png`. Sube también la carpeta `assets` conservando exactamente ese nombre; de lo contrario GitHub Pages no podrá mostrar el logo.
+
+
+## Colores de marca actualizados
+La página usa verde hoja, verde lima, naranja y crema, inspirados en el logo PETLU. Para actualizar GitHub Pages sube los archivos y la carpeta `assets` descomprimidos a la raíz del repositorio y confirma los cambios. Los pagos y tarifas de envío son demostrativos.
